@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuest RPG",
+  "description": "A gamified study platform that turns academic revision and study sessions into an epic RPG adventure for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
